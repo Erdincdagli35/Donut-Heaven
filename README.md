@@ -2,4 +2,4 @@
 Donut Heaven : A Basic JS Game
 
 Lecture : -
-Programming Lang. : JS
+Programming Lang. : JavaScript, HTML, CSS
